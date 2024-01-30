@@ -1,0 +1,158 @@
+.yygesamt {
+    width: 600px;
+    height: auto;
+    background-color: #301521;
+    opacity: 1;
+    color: #FAF0F6;
+    font-family: 'Dai Banna SIL', serif;
+    font-size: 15px;
+}
+
+.yybackground {
+    background-color: #301521;
+    background-image: url('https://media.discordapp.net/attachments/528634254305787917/1201907418645401681/IMG_3055.png?ex=65cb8682&is=65b91182&hm=c472a122b8690ea4f4bd6ad66b49c07e5ec6fc2b86d8124bc30f2f8c0105fb27&=&format=webp&quality=lossless&width=1120&height=671');
+    background-size: contain;
+}
+
+.yyheader {
+    width: 600px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.yyname {
+    font-family: 'Dancing Script', cursive;
+    font-size: 80px;
+    color: #FAF0F6;
+    text-align: center;
+    margin-top: -50px;
+    opacity: 1;
+}
+
+.yytext {
+    font-family: 'Dai Banna SIL', serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.yytext qt {
+    font-family: 'Ysabeau SC', sans-serif;
+    text-align: center; 
+    color: #FAF0F6;
+    font-size: 25px;
+    border: 1px solid #FAF0F6;
+    padding-top: 11px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    margin-top: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.yygif1 {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border: 1px solid #dbeaff;
+    border-radius: 50%;
+    margin-top: 25px;
+}
+
+.yygif2 {
+    width: 75px;
+    height: 75px;
+    object-fit: cover;
+    border: 1px solid #dbeaff;
+    border-radius: 50%;
+    margin: 10px 10px 10px 10px;
+}
+
+.yypers1 {
+    width: 330px;
+    height: 340px;
+    overflow: auto;
+    text-align: justify;
+    margin-right: 0px;
+    padding-right: 15px;
+}
+
+.yypers1 b {
+    font-family: 'Dai Banna SIL', serif;
+    font-weight: bold;
+}
+
+.yypers2 {
+    width: 330px;
+    height: 340px;
+    overflow: auto;
+    text-align: justify;
+    margin-left: 35px;
+    padding-right: 15px;
+}
+
+.yypers3 {
+    width: 515px;
+    height: 340px;
+    overflow: auto;
+    text-align: justify;
+    margin-left: 35px;
+    padding-right: 15px;
+    margin-bottom: 50px;
+}
+
+.yypersimg {
+    float: left;
+    width: 170px;
+    height: 340px;
+    object-fit: cover;
+    padding-right: 15px;
+    margin-left: 35px;
+}
+
+.yypersimg2 {
+    width: 530px;
+    height: 340 px;
+    object-fit: cover;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.yypersimg2:hover {
+    float: left;
+    width: 330px;
+    height: 340px;
+    overflow: auto;
+    text-align: justify;
+    margin-right: 0px;
+    padding-right: 15px;
+}
+
+.yypersimg1 {
+    float: right;
+    width: 170px;
+    height: 340px;
+    object-fit: cover;
+    padding-left: 15px;
+    margin-right: 35px;
+}
+    
+.yygif o {
+    margin-left: 120px;
+    margin-right: auto;
+    display: block;
+}
+
+.yyfinish {
+    width: 600px;
+    height: 30px;
+    background-color: #3561DA;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+}
+
